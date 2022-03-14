@@ -1,4 +1,4 @@
-# Vanced Manager
+# 010101100110110101000110011101010101100100110010010101100110101101001001010001010011000101101000011000100110110101000110011011100101101001
 <div>
 
 [![Github All Releases](https://img.shields.io/github/downloads/YTVanced/VancedManager/total.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/YTVanced/VancedManager.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest)
@@ -7,11 +7,9 @@
 
 ## Introduction
 
-Hi, when we released Vanced 15.05.54, people were upset because it used the .apks format, which was burdensome to install than a traditional .apk file. Even though we wrote clear instructions on how to install the new Vanced build, people still couldn't figure it out.  
+Hi, when we released, people were upset because it used the .apks format, which was burdensome to install than a traditional .apk file. Even though we wrote clear instructions on how to install the new Vanced build, people still couldn't figure it out.  
 
 Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall Vanced and MicroG, have an easy and user-friendly UI and be less than 10mb?" and that's how Vanced Manager was born.  
-  
-After 3 months of development, we are finally ready to Introduce [Vanced Manager](https://github.com/YTVanced/VancedManager) to the masses!!
 
 ## Features
 
@@ -39,8 +37,6 @@ For anyone who wants to provide translations please submit them to this [link](h
 ## Building
 
 <div>
-
-[![Build](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml)
 
 </div>
 
