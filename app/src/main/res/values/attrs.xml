@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="colorDisabled" format="color" />
+    <attr name="colorDisabledVariant" format="color" />
+    <attr name="colorSurfaceVariant" format="color" />
+    <attr name="colorOnPrimaryVariant" format="color" />
+    <attr name="colorOnSurfaceVariant" format="color" />
+    <attr name="colorSurfaceSurfaceVariant" format="color" />
+    <attr name="iconColor" format="reference|color" />
+    <attr name="toolbarIconColor" format="reference|color"/>
+    <attr name="DialogBG" format="reference|color" />
+    <attr name="colorLinkImage" format="reference|color" />
+    <attr name="colorLinkBG" format="reference|color" />
+    <attr name="colorWelcomeHeaderSubtitle" format="reference|color" />
+    <attr name="colorSettingsTitle" format="reference|color" />
+    <attr name="colorSecondaryText" format="reference|color" />
+
+    <declare-styleable name="PreferenceSwitch">
+        <attr name="switch_title" format="reference|string" />
+        <attr name="switch_summary" format="reference|string" />
+        <attr name="switch_key" format="reference|string" />
+        <attr name="switch_def_value" format="reference|boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="PreferenceCategory">
+        <attr name="category_title" format="reference|string"/>
+    </declare-styleable>
+
+    <declare-styleable name="EmptyPreference">
+        <attr name="preference_title" format="reference|string"/>
+        <attr name="preference_summary" format="reference|string"/>
+    </declare-styleable>
+
+    <declare-styleable name="ThemedSwipeRefreshlayout">
+        <attr name="progressBackgroundColor" format="reference|color" />
+    </declare-styleable>
+
+</resources>

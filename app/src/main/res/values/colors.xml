@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Vanced">#673AB7</color>
+    <color name="Brave">#FB542B</color>
+    <color name="Discord">#7289DA</color>
+    <color name="Twitter">#1DA1F2</color>
+    <color name="Telegram">#0088cc</color>
+    <color name="Reddit">#FF4500</color>
+    <color name="GitHub">#17191A</color>
+
+    <color name="Gray">#5F5E5E</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+    <!--Splash screen color for light/day theme-->
+    <color name="splash">#cfcfcf</color>
+
+</resources>
