@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/toolbar_settings"
+        android:title="@string/title_settings" />
+
+    <item
+        android:id="@+id/toolbar_update_manager"
+        android:title="@string/update_manager" />
+
+    <item
+        android:id="@+id/toolbar_about"
+        android:title="@string/title_about" />
+
+    <item
+        android:id="@+id/toolbar_log"
+        android:title="@string/title_logs" />
+
+</menu>
